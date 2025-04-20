@@ -2,7 +2,7 @@
 
 # Lucas11 Multi-Bookmarklet
 This is a Multi-Bookmarklet that adds this features:
-1. CalcString. An sum of phases (with easter eggs)
-2. JTBC. An compiler for Bookmarklets in a Bookmarklet (yea xd).
-3. Mini-JTBC. Just runs Javascript.
-4. An Mysterious option.
+- CalcString. An sum of phases (with easter eggs)
+- JTBC. An compiler for Bookmarklets in a Bookmarklet (yea xd).
+- Mini-JTBC. Just runs Javascript.
+- An Mysterious option.
