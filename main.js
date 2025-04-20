@@ -5,7 +5,7 @@ javascript: (function () {
         "CalcString 🖩 (1️⃣)\n" +
         "JTBC (Javascript To Bookmarklet Compiler) 📋 (2️⃣)\n" +
         "Mini-JTBC 📋 (3️⃣)\n" +
-        "Mini-JTBC 📋 (4️⃣)\n" +
+        "Credits 🌐 (4️⃣)\n" +
         "Close 🚪 (5️⃣ or Cancell) \n\n" +
         "Mysterious option ☠️ (6️⃣) \n\n" +
         "Select an tool with numbers."
